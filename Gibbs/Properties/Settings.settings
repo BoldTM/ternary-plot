@@ -1,0 +1,27 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Gibbs.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ChartWidth" Type="System.UInt32" Scope="User">
+      <Value Profile="(Default)">800</Value>
+    </Setting>
+    <Setting Name="ChartHeight" Type="System.UInt32" Scope="User">
+      <Value Profile="(Default)">600</Value>
+    </Setting>
+    <Setting Name="ChartTitle" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Wykres fazowy rozpuszczalności</Value>
+    </Setting>
+    <Setting Name="ChartSubtitle" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Tomasz Mętek (c) 2012</Value>
+    </Setting>
+    <Setting Name="ChartA" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Substancja A</Value>
+    </Setting>
+    <Setting Name="ChartB" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Substancja B</Value>
+    </Setting>
+    <Setting Name="ChartC" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Substancja C</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
